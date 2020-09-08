@@ -4,6 +4,5 @@
 </div>
 
 <div align="center">
-<p></p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhineel-Nandi&theme=onedark)](https://github.com/Abhineel-Nandi/github-readme-stats)
+<p><a href="https://github.com/Abhineel-Nandi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Abhineel-Nandi&amp;theme=onedark" alt="Anurag&#39;s github stats"></a></p>
 </div>
