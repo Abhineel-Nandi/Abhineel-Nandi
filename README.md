@@ -3,6 +3,10 @@
 <img src="https://profile-counter.glitch.me/Abhineel-Nandi/count.svg" alt="hit counter" align="center">
 </div>
 <br/>
+<div align="center">
+<p></p>
+<img src="https://img.shields.io/badge/CodeChefRating-1929-yellowgreen" alt="WowRating!!" align="center">
+</div>
 <br/>
 <br/>
 <div align="center">
