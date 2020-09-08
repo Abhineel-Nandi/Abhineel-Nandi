@@ -15,5 +15,5 @@
 <a href="https://instagram.com/abhineelnandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhineelnandi" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/abhi_neel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_neel" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/abnandi04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abnandi04" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/abhi_neel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="abhi_neel" height="30" width="30" /></a>
+<a href="https://codeforces.com/profile/abhi_neel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="abhi_neel" height="30" width="30" style="padding:5px"/></a>
 </p>
