@@ -1,6 +1,6 @@
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/Abhineel-Nandi/count.svg" alt="hit counter" align="center">
+<img src="https://el-psy-congroo-counter.glitch.me/count.svg" alt="hit counter" align="center">
 </div>
 <br/>
 <div align="center">
