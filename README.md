@@ -1,4 +1,4 @@
-<img src="../Hello World , This is Abhineel Nandi..png"
+<img src="https://github.com/Abhineel-Nandi/Abhineel-Nandi/blob/master/Hello%20World%20%2C%20This%20is%20Abhineel%20Nandi..png"
      alt="Markdown Monster icon"
      width="910px" />
 
