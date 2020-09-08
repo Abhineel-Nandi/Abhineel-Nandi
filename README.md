@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
 <p></p>
-<img src="https://img.shields.io/badge/CodeChefRating-1929-yellowgreen" alt="WowRating!!" align="center"><img src="https://img.shields.io/badge/SpojRank-889-lightgrey" alt="WowRanking!!" align="center">
+<img src="https://img.shields.io/badge/CodeChefRating-1929-yellowgreen" alt="WowRating!!" align="center"><img src="https://img.shields.io/badge/SpojRank-889-lightgrey" alt="WowRanking!!" align="center" padding="5px">
 </div>
 <br/>
 <br/>
