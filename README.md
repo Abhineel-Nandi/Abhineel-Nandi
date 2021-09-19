@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhineel-nandi" alt="abhineel-nandi" /></a> </p>
 
-- 📝 I regularly write articles on [https://Abhineel-Nandi.github.io/B/](https://Abhineel-Nandi.github.io/B/)
+- 📝  My SPOJ DashBoard [HERE](https://www.spoj.com/users/abhineelnandi/)
 
 - 📫 How to reach me **noobNandi04@gmail.com**
 
