@@ -3,7 +3,6 @@
 <h3 align="center">A passionate coder and puzzle solver from India</h3>
 <img src="https://img.freepik.com/free-vector/illustration-with-programmer-working_52683-26690.jpg?w=400" align="right"/>
 
-- 🌱 I’m currently learning **python , Node.js and backend**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Abhineel-Nandi)
 
